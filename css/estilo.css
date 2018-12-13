@@ -1,0 +1,110 @@
+#container{
+	height:100%;
+	width:1600px;
+	margin:auto;
+}
+
+.topo{
+	float:left;
+	display:block;
+	width:100%;
+	height:80px;
+	background-color:#FFFFFF;
+}
+
+.imgTopo{
+	height:100%;
+	width:18%;
+	padding-left:2%;
+	float:left;
+	display:block;
+}
+
+.fraseTopo{
+	height:98%;
+	padding-top:2%;
+	width:72.5%;
+	padding-left:7.5%;
+	display:block;
+	float:left;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size:180%;
+	color:#FFA600;	
+}
+
+.geral{
+	float:left;
+	display:block;
+	width:100%;
+	height:706px;
+	background-image:url(background.jpg);	
+}
+
+.caixa{
+	height:600px;
+	width:45%;
+	margin:auto;
+	margin-top:50px;
+	background:#FFFFFF;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	border:solid #FFA600 1px;
+}
+
+.tituloCaixa{
+	float:left;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size:145%;
+	color:black;	
+	text-align:center;
+	width:100%;
+	height:3%;
+	padding-top:2%;
+	display:block;
+}
+
+.dados{
+	float:left;
+	width:100%;
+	height:50%;
+	padding-top:3%;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.dado{
+	font-size:150%;
+	margin:auto;
+	float:left;
+	width:96%;
+	padding-left:4%;
+	margin-bottom:30px;
+}
+
+.dado span{
+	margin-top:3px;
+	font-size:110%;
+	float:left;
+	display:block;
+	width:25%;
+	text-align:right;
+}
+
+.dado input{
+	font-size:110%;
+	margin-left:195px;
+	width:50%;
+	display:block;
+}
+
+.btnOk{
+	font-size:200%;
+	margin-left:310px;
+	width:17%;
+	border:solid black 1px;
+}
+
+.btnOk:hover{
+	transition-duration:0.15s;
+	cursor:pointer;
+	color:#FFA600;	
+	border-color:#FFA600;
+}

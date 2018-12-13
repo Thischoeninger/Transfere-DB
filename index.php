@@ -1,6 +1,6 @@
 <?php
 /*Thiago Schoeninger
-25/04/2018*/
+10/11/2018*/
 header("Content-Type: text/html; charset=ISO-8859-1",true) ;
 ?>
 <html xmlns="http://www.w3.org/1999/xhtml">
@@ -18,7 +18,7 @@ header("Content-Type: text/html; charset=ISO-8859-1",true) ;
                			<img style='height:100%;' src="img/senac.png">
                     </div>
                     <div class='fraseTopo'>    
-                		<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Preencha os campos a seguir para fazer a transferência</span>
+                		<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Preencha os campos a seguir para fazer a transferÃªncia</span>
                     </div>
                 </div>
                 	<div class='geral'>
